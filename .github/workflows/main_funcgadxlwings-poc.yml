@@ -70,4 +70,4 @@ jobs:
           app-name: 'funcgadxlwings-poc'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D74A2264346F415C9203CC9687FC802C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA1D9BB2C3A445C9B577F6DA0C00249A }}
